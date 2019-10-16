@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b414030-1c36-4910-b5a4-6e8abb658083" name="Default Changelist" comment="" />
+    <list default="true" id="7b414030-1c36-4910-b5a4-6e8abb658083" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/p__Asset__Contribution.22f61be1.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Asset__List.fb5220cb.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Asset__Status.5d9572ab.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Asset__Type.9090c048.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Exchange__Good.b876c400.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Exchange__Order.6a929b62.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Member__Information.f3c77d2f.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Register__Activation.b923f888.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Register__Verification.28fbe045.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__System__Fodder.9e85e5ea.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__System__Notice.3e8f7015.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Team__User.1eb2dabd.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Team__Version.aede9adc.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Team__Version.e13f25dc.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Team__Version__model.tsx.3396a738.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Transaction__Appeal.138dce18.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Transaction__Appeal__model.tsx.8c49e783.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Transaction__Release.b7bf6bb5.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Transaction__Release__model.tsx.02f0d4f5.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Transaction__Trade.580f1a18.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__Transaction__Trade__model.tsx.ab0fbb4f.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p__User__Login.aa72da25.async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umi.5656be5a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors.259fc104.chunk.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors.259fc104.chunk.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +37,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/asset-manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-349">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <replaceStrings>
@@ -22,9 +60,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/asset-manifest.json" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="361" />
-    <option name="y" value="-1048" />
+    <option name="x" value="-53" />
+    <option name="y" value="-1039" />
     <option name="width" value="1647" />
     <option name="height" value="1006" />
   </component>
@@ -39,8 +84,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="dist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="ttk-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ttk-web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -91,6 +136,7 @@
       <workItem from="1569745350929" duration="649000" />
       <workItem from="1570777267605" duration="1393000" />
       <workItem from="1570780886175" duration="2169000" />
+      <workItem from="1571231227171" duration="247000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1570781288762</created>
@@ -131,12 +177,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4211000" />
+    <option name="totallyTimeSpent" value="4458000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="361" y="-1048" width="1647" height="1006" extended-state="0" />
+    <frame x="-53" y="-1039" width="1647" height="1006" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25607476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25919002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -149,8 +196,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49968848" visible="true" weight="0.32932165" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50031155" side_tool="true" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49906543" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5009346" side_tool="true" visible="true" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -167,8 +214,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/asset-manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259">
-          <caret line="23" column="62" lean-forward="true" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+        <state relative-caret-position="-349">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
